@@ -32,7 +32,7 @@ module.exports = {
   },
   overrides: [
     {
-      files: ['src/**/*.ts', 'test/**/*.ts', 'prisma/**/*.ts'],
+      files: ['**/*.ts'],
       rules: {
         'simple-import-sort/imports': [
           'error',
