@@ -6,7 +6,7 @@
   "main": "index.js",
   "private": false,
   "homepage": "https://github.com/autograders/eslint-config-node#readme",
-  "author": "Andrés Castellanos <andres.cv@galileo.edu>",
+  "author": "Andrés Castellanos <andres.cv@galileo.edu> (https://github.com/andrescv)",
   "keywords": [
     "autograders",
     "eslint",
